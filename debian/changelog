@@ -1,0 +1,5 @@
+asix-ax88179-dkms (3.4.0-1+nitrux) nitrux; urgency=medium
+
+  * Create the Nitrux DKMS package for the ASIX AX88179 USB Ethernet driver.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 01 Sep 2026 23:00:00 -0500

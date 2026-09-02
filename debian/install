@@ -1,0 +1,5 @@
+asix-ax88179.conf etc/modprobe.d/
+Makefile usr/src/asix-ax88179-3.4.0/
+dkms.conf usr/src/asix-ax88179-3.4.0/
+*.c usr/src/asix-ax88179-3.4.0/
+*.h usr/src/asix-ax88179-3.4.0/

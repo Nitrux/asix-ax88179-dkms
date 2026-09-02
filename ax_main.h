@@ -32,6 +32,7 @@
 #include <linux/version.h>
 #include <linux/efi.h>
 #include <linux/crc32.h>
+#include <linux/string.h>
 #include <linux/time.h>
 #include "ax_ioctl.h"
 
